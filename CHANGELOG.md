@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.103.0 (2026-06-06)
+
+Full Changelog: [sdk-v0.102.0...sdk-v0.103.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.102.0...sdk-v0.103.0)
+
+### Features
+
+* **middleware:** add ctx.logger ([#55](https://github.com/anthropics/anthropic-sdk-typescript/issues/55)) ([edd1454](https://github.com/anthropics/anthropic-sdk-typescript/commit/edd14544173cf60ee2a2bf01acbf14e50bcfdaaa))
+
 ## 0.102.0 (2026-06-06)
 
 Full Changelog: [sdk-v0.101.0...sdk-v0.102.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.101.0...sdk-v0.102.0)
